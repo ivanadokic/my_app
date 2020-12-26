@@ -7,6 +7,8 @@ Things you may want to cover here:
 
 * Ruby version
 
+```ruby -v```
+
 * System dependencies
 
 * Configuration
