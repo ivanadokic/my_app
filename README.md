@@ -9,7 +9,7 @@ Things you may want to cover here:
 
 ```ruby -v```
 
-Also Before you install Rails, you should check to make sure that your system has the proper prerequisites installed. These include:
+Before you install Rails, you should check to make sure that your system has the proper prerequisites installed. These include:
 
 Ruby
 SQLite3
