@@ -4,9 +4,7 @@ This README would normally document whatever steps are necessary to get the
 application up and running.
 
 Things you may want to cover here:
-
 * Ruby version
-
 ```ruby -v```
 
 Before you install Rails, you should check to make sure that your system has the proper prerequisites installed. These include:
